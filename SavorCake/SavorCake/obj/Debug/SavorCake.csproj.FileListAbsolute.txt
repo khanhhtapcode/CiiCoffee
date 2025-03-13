@@ -1,0 +1,16 @@
+E:\C#\SavorCake\SavorCake\bin\Debug\SavorCake.exe.config
+E:\C#\SavorCake\SavorCake\bin\Debug\SavorCake.exe
+E:\C#\SavorCake\SavorCake\bin\Debug\SavorCake.pdb
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.csproj.AssemblyReference.cache
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.Home.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.ManagementFr.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.Properties.Resources.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.csproj.GenerateResource.cache
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.csproj.CoreCompileInputs.cache
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.exe
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.pdb
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.HomeFr.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.CakeFr.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.employeesFr.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.FinanceFr.resources
+E:\C#\SavorCake\SavorCake\obj\Debug\SavorCake.ingredientFr.resources
